@@ -8,8 +8,13 @@ function api() {
 		// 	.get(url)
 		// 	.then(response => response.data.results)
 		// 	.catch(error => console.log(error))
-		const response = await axios.get(url)
-		return response.data.results
+		try {
+			const response = await axios.get(url)
+			const { results } = response.data
+			return results
+		} catch (error) {
+			return error
+		}
 	}
 	return { get }
 }

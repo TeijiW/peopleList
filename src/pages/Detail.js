@@ -1,6 +1,6 @@
 import React from "react"
 import { View, FlatList, Text } from "react-native"
-import { ListItem } from "react-native-elements"
+import { ListItem, Avatar } from "react-native-elements"
 
 export default props => {
 	console.clear()
