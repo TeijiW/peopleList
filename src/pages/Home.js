@@ -1,18 +1,12 @@
 import React, { Component } from "react"
 import { View, FlatList, Text } from "react-native"
 import { ListItem } from "react-native-elements"
-// import api from "../api"
+import api from "../api"
 import axios from "axios"
 
 export default props => {
+	const server = api()
 	const keyExtractor = (item, index) => index.toString()
-	let list = []
-	const getDataAPI = async () => {
-		const url = "https://randomuser.me/api/?results=10&exc=login, id&noinfo"
-		const response = await axios.get(url)
-		// return response.data.results
-		list = response.data.results
-	}
 	const renderItem = item => {
 		const person = item.item
 		return (
@@ -27,12 +21,11 @@ export default props => {
 		)
 	}
 
-	console.log(list)
 	return (
 		<View>
 			<FlatList
 				keyExtractor={keyExtractor}
-				data={() => getDataAPI()}
+				data={async () => await server.get()}
 				renderItem={renderItem}
 			/>
 		</View>
