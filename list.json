@@ -1,0 +1,434 @@
+{
+	"results": [
+		{
+			"gender": "male",
+			"name": {
+				"title": "Monsieur",
+				"first": "Alban",
+				"last": "Guerin"
+			},
+			"location": {
+				"street": {
+					"number": 2934,
+					"name": "Avenue du Fort-Caire"
+				},
+				"city": "Wiler bei Utzenstorf",
+				"state": "Bern",
+				"country": "Switzerland",
+				"postcode": 9393,
+				"coordinates": {
+					"latitude": "-53.9839",
+					"longitude": "-142.1555"
+				},
+				"timezone": {
+					"offset": "+11:00",
+					"description": "Magadan, Solomon Islands, New Caledonia"
+				}
+			},
+			"email": "alban.guerin@example.com",
+			"dob": {
+				"date": "1947-09-28T13:07:24.856Z",
+				"age": 73
+			},
+			"registered": {
+				"date": "2010-10-09T14:50:18.656Z",
+				"age": 10
+			},
+			"phone": "078 387 17 43",
+			"cell": "076 447 75 77",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/61.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+			},
+			"nat": "CH"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "Ms",
+				"first": "Léa",
+				"last": "Fernandez"
+			},
+			"location": {
+				"street": {
+					"number": 8565,
+					"name": "Rue André-Gide"
+				},
+				"city": "Toulon",
+				"state": "Orne",
+				"country": "France",
+				"postcode": 61950,
+				"coordinates": {
+					"latitude": "-31.0216",
+					"longitude": "-44.4911"
+				},
+				"timezone": {
+					"offset": "-1:00",
+					"description": "Azores, Cape Verde Islands"
+				}
+			},
+			"email": "lea.fernandez@example.com",
+			"dob": {
+				"date": "1988-07-23T21:27:57.236Z",
+				"age": 32
+			},
+			"registered": {
+				"date": "2007-02-08T16:44:09.551Z",
+				"age": 13
+			},
+			"phone": "04-63-05-99-11",
+			"cell": "06-97-83-97-16",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/83.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+			},
+			"nat": "FR"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "Mr",
+				"first": "Zachary",
+				"last": "Jensen"
+			},
+			"location": {
+				"street": {
+					"number": 2473,
+					"name": "Manchester Road"
+				},
+				"city": "Bangor",
+				"state": "Shropshire",
+				"country": "United Kingdom",
+				"postcode": "I2S 9JT",
+				"coordinates": {
+					"latitude": "37.8171",
+					"longitude": "-138.2370"
+				},
+				"timezone": {
+					"offset": "-11:00",
+					"description": "Midway Island, Samoa"
+				}
+			},
+			"email": "zachary.jensen@example.com",
+			"dob": {
+				"date": "1962-12-08T14:25:49.556Z",
+				"age": 58
+			},
+			"registered": {
+				"date": "2016-02-18T10:44:14.665Z",
+				"age": 4
+			},
+			"phone": "016977 2330",
+			"cell": "0756-870-626",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/77.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+			},
+			"nat": "GB"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "Miss",
+				"first": "Ege",
+				"last": "Gürmen"
+			},
+			"location": {
+				"street": {
+					"number": 8006,
+					"name": "Vatan Cd"
+				},
+				"city": "Mardin",
+				"state": "Giresun",
+				"country": "Turkey",
+				"postcode": 54092,
+				"coordinates": {
+					"latitude": "-81.5937",
+					"longitude": "-90.9959"
+				},
+				"timezone": {
+					"offset": "-12:00",
+					"description": "Eniwetok, Kwajalein"
+				}
+			},
+			"email": "ege.gurmen@example.com",
+			"dob": {
+				"date": "1954-04-13T05:35:05.048Z",
+				"age": 66
+			},
+			"registered": {
+				"date": "2014-09-28T05:12:58.325Z",
+				"age": 6
+			},
+			"phone": "(432)-463-5791",
+			"cell": "(026)-068-7934",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/27.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+			},
+			"nat": "TR"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "Mr",
+				"first": "مهدي",
+				"last": "كامياران"
+			},
+			"location": {
+				"street": {
+					"number": 5004,
+					"name": "کلاهدوز"
+				},
+				"city": "تهران",
+				"state": "خراسان رضوی",
+				"country": "Iran",
+				"postcode": 86501,
+				"coordinates": {
+					"latitude": "-13.2611",
+					"longitude": "36.9079"
+				},
+				"timezone": {
+					"offset": "-10:00",
+					"description": "Hawaii"
+				}
+			},
+			"email": "mhdy.kmyrn@example.com",
+			"dob": {
+				"date": "1974-10-28T01:04:18.531Z",
+				"age": 46
+			},
+			"registered": {
+				"date": "2009-12-11T21:41:14.595Z",
+				"age": 11
+			},
+			"phone": "082-80423632",
+			"cell": "0946-598-3545",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/33.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+			},
+			"nat": "IR"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "Mr",
+				"first": "Lino",
+				"last": "Fontai"
+			},
+			"location": {
+				"street": {
+					"number": 4827,
+					"name": "Rue du Stade"
+				},
+				"city": "Nanterre",
+				"state": "Hérault",
+				"country": "France",
+				"postcode": 25927,
+				"coordinates": {
+					"latitude": "-15.9387",
+					"longitude": "164.6834"
+				},
+				"timezone": {
+					"offset": "+2:00",
+					"description": "Kaliningrad, South Africa"
+				}
+			},
+			"email": "lino.fontai@example.com",
+			"dob": {
+				"date": "1952-04-13T09:19:48.832Z",
+				"age": 68
+			},
+			"registered": {
+				"date": "2002-06-13T13:06:03.067Z",
+				"age": 18
+			},
+			"phone": "01-75-75-51-44",
+			"cell": "06-32-12-58-59",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/63.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+			},
+			"nat": "FR"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "Mr",
+				"first": "Daniel",
+				"last": "Clark"
+			},
+			"location": {
+				"street": {
+					"number": 4242,
+					"name": "Pine Rd"
+				},
+				"city": "Sandy Lake",
+				"state": "Yukon",
+				"country": "Canada",
+				"postcode": "M1Q 2Y9",
+				"coordinates": {
+					"latitude": "-76.5163",
+					"longitude": "-55.2256"
+				},
+				"timezone": {
+					"offset": "+5:30",
+					"description": "Bombay, Calcutta, Madras, New Delhi"
+				}
+			},
+			"email": "daniel.clark@example.com",
+			"dob": {
+				"date": "1973-08-08T22:43:12.829Z",
+				"age": 47
+			},
+			"registered": {
+				"date": "2008-09-08T16:05:54.192Z",
+				"age": 12
+			},
+			"phone": "930-970-4582",
+			"cell": "462-037-6549",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/71.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+			},
+			"nat": "CA"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "Ms",
+				"first": "Emilie",
+				"last": "Thomsen"
+			},
+			"location": {
+				"street": {
+					"number": 2732,
+					"name": "Søvang"
+				},
+				"city": "Lemvig",
+				"state": "Hovedstaden",
+				"country": "Denmark",
+				"postcode": 66097,
+				"coordinates": {
+					"latitude": "24.1512",
+					"longitude": "119.8057"
+				},
+				"timezone": {
+					"offset": "-10:00",
+					"description": "Hawaii"
+				}
+			},
+			"email": "emilie.thomsen@example.com",
+			"dob": {
+				"date": "1946-08-10T02:31:36.645Z",
+				"age": 74
+			},
+			"registered": {
+				"date": "2007-11-06T19:55:47.652Z",
+				"age": 13
+			},
+			"phone": "64953314",
+			"cell": "06391802",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/55.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+			},
+			"nat": "DK"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "Ms",
+				"first": "Pinja",
+				"last": "Jarvi"
+			},
+			"location": {
+				"street": {
+					"number": 5824,
+					"name": "Itsenäisyydenkatu"
+				},
+				"city": "Taivassalo",
+				"state": "Päijät-Häme",
+				"country": "Finland",
+				"postcode": 89041,
+				"coordinates": {
+					"latitude": "77.1926",
+					"longitude": "101.0109"
+				},
+				"timezone": {
+					"offset": "+1:00",
+					"description": "Brussels, Copenhagen, Madrid, Paris"
+				}
+			},
+			"email": "pinja.jarvi@example.com",
+			"dob": {
+				"date": "1955-07-22T21:27:55.010Z",
+				"age": 65
+			},
+			"registered": {
+				"date": "2003-11-08T20:47:53.323Z",
+				"age": 17
+			},
+			"phone": "02-224-140",
+			"cell": "044-619-54-93",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/39.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+			},
+			"nat": "FI"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "Monsieur",
+				"first": "Miroslav",
+				"last": "Rey"
+			},
+			"location": {
+				"street": {
+					"number": 9220,
+					"name": "Rue Saint-Georges"
+				},
+				"city": "Weesen",
+				"state": "Appenzell Ausserrhoden",
+				"country": "Switzerland",
+				"postcode": 9706,
+				"coordinates": {
+					"latitude": "-68.5963",
+					"longitude": "-76.8179"
+				},
+				"timezone": {
+					"offset": "+1:00",
+					"description": "Brussels, Copenhagen, Madrid, Paris"
+				}
+			},
+			"email": "miroslav.rey@example.com",
+			"dob": {
+				"date": "1966-08-18T22:03:04.665Z",
+				"age": 54
+			},
+			"registered": {
+				"date": "2002-10-25T14:15:14.295Z",
+				"age": 18
+			},
+			"phone": "078 100 22 55",
+			"cell": "077 581 13 96",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/3.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+			},
+			"nat": "CH"
+		}
+	]
+}
